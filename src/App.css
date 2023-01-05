@@ -28,9 +28,9 @@ span{
   padding:0;
 }
 
-p{padding-inline:1em;
+p{padding-inline:0.9rem;
   margin-top:2rem;
-  width:20rem;
+  width:18rem;
 }
 
 .btn{
