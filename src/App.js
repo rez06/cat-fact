@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
       
-      <button className="btn" onClick={fetchCatFact}> <span>Click me for a</span> Cat Fact</button>
+      <button className="btn" onClick={fetchCatFact}> <span>Click me for a</span><br/>Cat Fact</button>
       
       <p>{catFact}</p>
     </div>
