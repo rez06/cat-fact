@@ -21,10 +21,11 @@ body{
 }
 
 span{
-  display:block;
+  display: block;
   color:#E7F6F2;
   font-family: 'Poppins', sans-serif;
   font-size: 0.8rem;
+  padding:0;
 }
 
 p{
