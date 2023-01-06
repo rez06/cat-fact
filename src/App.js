@@ -22,7 +22,7 @@ function App() {
       
       <button className="btn" onClick={fetchCatFact}> <span>Click me for a</span>Cat Fact</button>
       
-      <p>{catFact}</p>
+      <p className="fact-container">{catFact}</p>
     </div>
   );
 }
