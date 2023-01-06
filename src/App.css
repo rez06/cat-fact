@@ -59,7 +59,7 @@ transition: 0.5s;
   opacity: 0.9;
 }
 
-@media (min-width: 800px){
+@media (min-width: 700px){
   .fact-container{
     width:40rem;
   }
