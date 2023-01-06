@@ -56,7 +56,6 @@ transition: 0.5s;
 
 .btn:hover,
 .btn:focus{
-  /* background-color: #2C3639; */
   opacity: 0.9;
 }
 
