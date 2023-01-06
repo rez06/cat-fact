@@ -5,6 +5,8 @@ body{
   justify-content: center;
   align-items: center;
   font-family: 'Poppins', sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  tap-highlight-color: transparent;
 
 }
 .App {
@@ -54,7 +56,8 @@ transition: 0.5s;
 
 .btn:hover,
 .btn:focus{
-  background-color: #2C3639;
+  /* background-color: #2C3639; */
+  opacity: 0.9;
 }
 
 @media (min-width: 800px){
