@@ -61,7 +61,7 @@ transition: 0.5s;
 
 @media (min-width: 600px){
   .fact-container{
-    width:40rem;
+    width:50rem;
     background-color: gold;
   }
 }
